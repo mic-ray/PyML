@@ -3,3 +3,6 @@ venv
 
 # VS Code settings
 .vscode
+
+# Large data source files
+data/
